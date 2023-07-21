@@ -15,9 +15,9 @@ flutter_01.png
 
 Authentication Screen       |  Form Validation         | Exception Handling        |  Login Screen
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="flutter_01.png" height="500em" />|<img src="flutter_02.png" height="500em" />|<img src="flutter_03.png" height="500em" />|<img src="flutter_05.png" height="500em" />|
+<img src="flutter_01.png" height="420em" />|<img src="flutter_02.png" height="420em" />|<img src="flutter_03.png" height="420em" />|<img src="flutter_05.png" height="420em" />|
 
 User Messaging              |  RealTime Messaging      | Push Notifications        |  App Icon
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="flutter_06.png" height="500em" />|<img src="flutter_08.png" height="500em" />|<img src="flutter_09.png" height="500em" />|<img src="flutter_10.png" height="500em" />|
+<img src="flutter_06.png" height="420em" />|<img src="flutter_08.png" height="420em" />|<img src="flutter_09.png" height="420em" />|<img src="flutter_10.png" height="420em" />|
 
